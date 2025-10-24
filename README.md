@@ -34,7 +34,7 @@ A shipment represents a delivery from a **source address** to a **destination ad
 | `created_at` | datetime | Shipment creation timestamp |
 | `updated_at` | datetime | Last modification timestamp |
 
-> Each shipment should have at least **50 location points** simulating the journey.
+> Each shipment should have at least **50 location points** simulating the journey. See the attached Locations JSON files and feel free to use them.
 
 ---
 
